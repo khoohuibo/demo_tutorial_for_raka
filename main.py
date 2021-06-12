@@ -10,8 +10,5 @@ Created on Sat Jun 12 20:56:06 2021
 import Source.ergy
 import Source.time
 
-def sdmaiodmwiod(sdasd):
-    daiosdmawio = 0
-    sdimasokdma = 0
-    dmioasdmoaskd =0 
-    sdkmaosdmk = 0
+smdaskdkmasdmksadas = 0
+sdkamsdlas = 0
