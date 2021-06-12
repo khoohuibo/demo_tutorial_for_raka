@@ -15,3 +15,14 @@ def sdmaiodmwiod(sdasd):
     sdimasokdma = 0
     dmioasdmoaskd =0 
     sdkmaosdmk = 0
+
+def sdmaiodmwiod(sdasd):
+    daiosdmawio = 0
+    sdimasokdma = 0
+    dmioasdmoaskd =0 
+    sdkmaosdmk = 0
+    def sdmaiodmwiod(sdasd):
+        daiosdmawio = 0
+        sdimasokdma = 0
+        dmioasdmoaskd =0 
+        sdkmaosdmk = 0
