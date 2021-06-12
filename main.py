@@ -12,3 +12,4 @@ import Source.time
 
 smdaskdkmasdmksadas = 0
 sdkamsdlas = 0
+mother = 0
