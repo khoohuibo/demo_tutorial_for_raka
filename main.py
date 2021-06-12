@@ -10,9 +10,8 @@ Created on Sat Jun 12 20:56:06 2021
 import Source.ergy
 import Source.time
 
-test = Source.ergy.Energy() # 1st variable
-test_time = Source.time.Time() # 2nd variable
-
-# energy function testing
-print(test.kinetic(100, 100))
-print(test_time.days_to_seconds(1))
+def sdmaiodmwiod(sdasd):
+    daiosdmawio = 0
+    sdimasokdma = 0
+    dmioasdmoaskd =0 
+    sdkmaosdmk = 0
